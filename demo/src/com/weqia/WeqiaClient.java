@@ -27,6 +27,7 @@ import com.weqia.util.UtilDate;
 
 /**
  * 
+ * 
  * 类名：WeqiaClient
  * 功能：微洽开放平台-客户端接口封装类
  * 详细：接口类，实现“员工批量添加”、“外部消息通知”等接口；
