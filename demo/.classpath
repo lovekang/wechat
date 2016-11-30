@@ -16,5 +16,6 @@
 	<classpathentry kind="lib" path="lib/json-lib-2.2.2-jdk15.jar"/>
 	<classpathentry kind="lib" path="lib/commons-beanutils-1.7.0.jar"/>
 	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-1.4.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
